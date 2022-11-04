@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<style>
+    .even {
+        color: blue;
+    }
+</style>
+
+<body>
+    <div>
+        <p>First</p>
+        <p class="even">Second</p>
+        <p>Third</p>
+    </div>
+
+    <div>
+        <p class="even">Fourth</p>
+        <p>Fifth</p>
+        <p class="even">Sixth</p>
+    </div>
+</body>
+
+</html>
+
+#We achieved this effect by using classes. Specifically, the even-numbered paragraphs all have the same class attribute as follows: class="even". The second paragraph, for example, has the following code: <p class="even">Second</p>. And, the fourth and sixth paragraphs have the same class attribute. Conversely, the first, third and fifth paragraphs don’t have this class attribute. So, they’re not colored blue.
+
+#In the CSS code, the class selector uses a period (.) followed by the class name of even. Just as a hashtag (#) indicates an id attribute (like in #second), the period indicates a class (like in .even), as the following code shows:
