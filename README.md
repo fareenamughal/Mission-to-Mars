@@ -19,13 +19,12 @@ Deliverable 2: Scrape and analyze Mars weather data, which exists in a table.
 
 ## Resources
 
-[Mars Temperature Data as a csv file](https://github.com/fareenamughal/Mission-to-Mars/blob/main/mars_temperature_data.csvLinks to an external site)
-
+[Mars Temperature Data as a csv file](https://github.com/fareenamughal/Mission-to-Mars/blob/93322df5da5e077d0b50ca2e3dfa568ec232aa9e/mars_temperature_data.csv)
 ## Results
 
-[Mars Data Challenge Part 1](https://github.com/fareenamughal/Mission-to-Mars/blob/main/mars_data_challenge_part_1.ipynbLinks to an external site)
+[Mars Data Challenge Part 1](https://github.com/fareenamughal/Mission-to-Mars/blob/93322df5da5e077d0b50ca2e3dfa568ec232aa9e/mars_data_challenge_part_1.ipynb)
  
-[Mars Data Challenge Part 2](https://github.com/fareenamughal/Mission-to-Mars/blob/main/mars_data_challenge_part_2.ipynbLinks to an external site)
+[Mars Data Challenge Part 2](https://github.com/fareenamughal/Mission-to-Mars/blob/93322df5da5e077d0b50ca2e3dfa568ec232aa9e/mars_data_challenge_part_2.ipynb)
 
  
  
